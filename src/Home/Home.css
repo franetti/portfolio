@@ -199,7 +199,7 @@
     /* border: 1px solid red; */
     margin: auto;
     z-index: 1000;
-    max-height: 75%;
+    /* max-height: 75%; */
 }
 
 .container_gif{
@@ -337,12 +337,12 @@
 
 form input, label{
     font-size:1.2rem;
-    width: 100%;    
+    width: 80%;    
     padding: 5px;
     font-family: 'Roboto Mono' !important;
 }
 input{
-    width: 90%;
+    width: 80%;
 }
 
 form textarea{
